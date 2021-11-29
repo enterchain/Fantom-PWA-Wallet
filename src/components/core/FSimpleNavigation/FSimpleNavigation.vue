@@ -20,7 +20,8 @@
                                 :original="item.original || false"
                                 :class="{ 'icon-fill-color': item.fillColor }"
                             />
-                            <span class="title">{{ item.title }}</span>
+                            <span v-if="item.title === 'fSwap'" class="title">Swap</span>
+                            <span v-else class="title">{{ item.title }}</span>
                         </router-link>
                         <a
                             v-else

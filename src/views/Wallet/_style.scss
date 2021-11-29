@@ -22,3 +22,9 @@
         }
     }
 }
+
+.view-wallet nav ul li:nth-child(4),
+.view-wallet nav ul li:nth-child(6),
+.view-wallet nav ul li:nth-child(7) {
+    display: none;
+}
