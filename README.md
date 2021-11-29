@@ -1,6 +1,6 @@
-# Fantom PWA Wallet
+# Enter PWA Wallet
 
-JavaScript and Vue based Fantom pwa wallet.
+JavaScript and Vue wallet based on Fantom pwa wallet.
 
 We are using:
 * Node / NPM
