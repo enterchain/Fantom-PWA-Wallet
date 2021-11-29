@@ -6,10 +6,11 @@
         <template v-else>
             <address-info-box />
 
-            <main class="main">
+            <main class="main hide">
                 <account-stake />
                 <!--                <router-view></router-view>-->
             </main>
+            <v-row justify="center"> Staking will be available soon </v-row>
         </template>
     </div>
 </template>

@@ -339,8 +339,8 @@ export const routes = [
                 ],
             },
             {
-                name: 'fswap',
-                path: '/fswap/:address',
+                name: 'Swap',
+                path: '/swap/:address',
                 component: FSwap,
                 children: [
                     {

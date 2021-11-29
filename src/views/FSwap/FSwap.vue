@@ -5,7 +5,10 @@
         </template>
         <template v-else>
             <address-info-box />
-            <main class="main">
+
+            <v-row justify="center"> Swap will be available soon </v-row>
+
+            <main class="main hide">
                 <f-view-transition watch-route :views-structure="viewsStructure">
                     <router-view></router-view>
                 </f-view-transition>
