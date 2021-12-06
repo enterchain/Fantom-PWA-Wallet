@@ -2,7 +2,7 @@
     <div class="view-settings">
         <h1>Settings</h1>
 
-        <h2>fWallet</h2>
+        <h2>ANB Wallet</h2>
         <settings-form />
 
         <h2>fUNI</h2>

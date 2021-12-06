@@ -3,14 +3,14 @@
         <f-card class="f-card-double-padding">
             <div class="small-container">
                 <p>
-                    <a href="https://fantom.foundation/how-to-use-fantom-wallet/" target="_blank">
-                        How to use Fantom fWallet
+                    <a href="#" target="_blank">
+                        How to use ANB Wallet
                     </a>
                 </p>
 
                 <p>
-                    <a href="https://explorer.fantom.network/" target="_blank">
-                        Fantom Explorer
+                    <a href="#" target="_blank">
+                        ANB Explorer
                     </a>
                 </p>
 

@@ -1,5 +1,5 @@
 <template>
-    <ul class="blockchain-picker no-markers">
+    <ul class="blockchain-picker no-markers hide">
         <li>
             <label for="bc-opera">
                 <input
