@@ -69,7 +69,7 @@
                             <span class="col col-6-md">
                                 <span class="value">
                                     <f-t-m-token-value :value="account.balance" convert no-currency />
-                                    <span class="ftm"> FTM</span>
+                                    <span class="ftm"> ANB</span>
                                 </span>
                                 <span class="currency">
                                     <f-t-m-token-value
@@ -83,7 +83,7 @@
                             <span class="col col-6-md">
                                 <span class="value">
                                     <f-t-m-token-value :value="account.totalBalance" convert no-currency />
-                                    <span class="ftm"> FTM</span>
+                                    <span class="ftm"> ANB</span>
                                 </span>
                                 <span class="currency">
                                     <f-t-m-token-value

@@ -1,7 +1,7 @@
 <template>
     <div class="receive-ftm">
         <div class="align-center">
-            Send your Opera FTM to:
+            Send your ANB to:
 
             <h3 class="address break-word h2" :class="addressCssClass">
                 {{ currentAccount.address }} &nbsp;

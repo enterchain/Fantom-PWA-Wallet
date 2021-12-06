@@ -6,7 +6,7 @@
                     <social-media-links></social-media-links>
                 </div>
                 <div class="col align-center-sm align-end">
-                    <a href="https://fantom.foundation/" target="_blank" rel="nofollow">©2020 Fantom Foundation </a>
+                    <a href="#" target="_blank" rel="nofollow">©2022 ANB Foundation </a>
                 </div>
             </div>
         </div>
